@@ -1,0 +1,8 @@
+{
+  "name": "TerrainPulse 3D",
+  "description": "High-resolution 3D satellite and aerial terrain incident reporting platform powered by Google Maps Platform and Cloud SQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
